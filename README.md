@@ -1,6 +1,6 @@
 # 💫 About Me:
 - CS, Stats, & Math @ UIUC
-- I enjoy building robust, scalable systems that make people's lives easier!
+- I enjoy building robust, scalable systems that make people's lives easier.
 
 
 ## 🌐 Socials:
